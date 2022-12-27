@@ -7,7 +7,7 @@ https://bbiyong-bbiyong.seoul.kr/
 ## 화면 구동
 | 시작 화면 | 체크 옵션 |
 | :---:| :---: |
-| ![시작 화면](https://user-images.githubusercontent.com/87802191/209574774-0661e4b3-7c9c-47f2-8dac-0ecce3f42740.gif) |![클릭화면](https://user-images.githubusercontent.com/87802191/209574837-f03019c0-2a69-417a-a73f-d13b9b1bc774.gif) | 
+| ![시작](https://user-images.githubusercontent.com/87255462/209643142-75e1ed64-2702-4d57-a0aa-abb474ac967b.gif) |![체크옵션](https://user-images.githubusercontent.com/87255462/209643169-8e189749-e26c-4f0a-b6cf-b48c79e74053.gif)
 
 ---
 
