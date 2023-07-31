@@ -1,13 +1,26 @@
 # 🚨 삐용삐용 🚨
-### 실시간 재난/교통 정보 모아보기
-https://bbiyong-bbiyong.seoul.kr/
+### 실시간 재난 알림 서비스
+https://bbiyong-bbiyong.web.app/
 
 ---
 
 ## 화면 구동
 | 시작 화면 | 체크 옵션 |
 | :---:| :---: |
-| ![시작](https://user-images.githubusercontent.com/87255462/209643142-75e1ed64-2702-4d57-a0aa-abb474ac967b.gif) |![체크옵션](https://user-images.githubusercontent.com/87255462/209643169-8e189749-e26c-4f0a-b6cf-b48c79e74053.gif)
+| ![시작](https://github.com/bbiyongbbiyong/.github/assets/87255462/69c94bf5-d877-43b7-b79b-0914041334b6)|![체크](https://github.com/bbiyongbbiyong/.github/assets/87255462/4dfde7c9-5042-49c9-a18f-14542f0cf54d)|
+
+
+
+| 로그인 화면 | 회원가입 화면 |
+| :---:| :---: |
+|![로그인](https://github.com/bbiyongbbiyong/.github/assets/87255462/bd666a64-1a9a-42c4-a833-af41f82cc1d6)|![회원가입](https://github.com/bbiyongbbiyong/.github/assets/87255462/a713f36b-7c7b-471f-b702-df284c611ba6)|
+
+
+
+| 알림설정 화면 | 백그라운드 알림 |
+| :---:| :---: |
+|![알림설정](https://github.com/bbiyongbbiyong/.github/assets/87255462/3b1660f5-c76a-4205-8900-7394bc9f5488)|![알림백그라운드](https://github.com/bbiyongbbiyong/.github/assets/87255462/97d2735c-b214-4f85-a099-38aa3be05779)|
+
 
 ---
 
@@ -19,9 +32,9 @@ https://bbiyong-bbiyong.seoul.kr/
 <br>
 
 ### ⚙️ Architecture
-![1218](https://user-images.githubusercontent.com/87802191/209575356-a3afa80d-fd13-48b6-b2ef-c0d95d3b5871.png)
+<img width="1882" alt="시스템 구조도_0715" src="https://github.com/bbiyongbbiyong/.github/assets/87255462/2ba462a9-a0d2-4c9f-93f8-087ed460b53c">
 
 <br>
 
 ### 🖥️ Tech Stack
-<img width="803" alt="개발 환경" src="https://user-images.githubusercontent.com/87802191/209575348-7648516d-0964-4fda-8056-c52887c55381.png">
+![image](https://github.com/bbiyongbbiyong/.github/assets/87255462/6e8d3c4e-4396-4fb8-b8fe-faa65050d4bc)
